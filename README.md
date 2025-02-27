@@ -28,7 +28,7 @@ Proyek ini akan dilakukan melalui beberapa tahap berikut:
 - Model AI yang dapat menganalisis tren penjualan dan merekomendasikan restock produk.
 - Laporan hasil analisis dan implementasi AI untuk toko.
   
-##Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - Bahasa Pemrograman: Python
 - Library: Pandas, NumPy, Scikit-Learn, TensorFlow/PyTorch
 - Format Data: CSV
