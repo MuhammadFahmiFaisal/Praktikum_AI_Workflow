@@ -11,15 +11,18 @@ Proyek ini bertujuan untuk:
 
 ## Tahapan Proyek
 Proyek ini akan dilakukan melalui beberapa tahap berikut:
-1. **Digitalisasi & Pengumpulan Data**
+1. **Digitalise & Collect**
    - Mengumpulkan data penjualan toko dalam format digital (CSV atau database).
+   - Mengunggah data ke Google Colab untuk membaca data dari file CSV
 2. **Pemrosesan & Analisis Data**
-   - Membersihkan dan mempersiapkan data untuk analisis.
+   - Transform (Membersihkan dan mempersiapkan data untuk analisis)
    - Mengevaluasi pola penjualan menggunakan teknik statistik dan machine learning.
 3. **Pengembangan Model AI**
-   - Melatih model prediktif menggunakan algoritma AI untuk menganalisis tren penjualan.
+   - Train (Melatih Model AI di Google Colab) menggunakan algoritma AI untuk menganalisis tren penjualan.
+   - Execute (Menggunakan Model untuk Prediksi di Google Colab)
    - Mengembangkan sistem rekomendasi untuk menentukan produk yang perlu di-restock.
 4. **Implementasi & Evaluasi**
+   - Provide Insights to Make Decisions (Analisis Data di Google Colab)  menggunakan visualisasi untuk melihat pola stok dan penjualan.
    - Menerapkan solusi AI dalam sistem yang dapat digunakan di toko.
    - Menguji akurasi model dan menyesuaikan parameter untuk meningkatkan kinerja.
      
